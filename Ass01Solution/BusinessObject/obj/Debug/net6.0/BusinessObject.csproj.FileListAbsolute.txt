@@ -1,0 +1,11 @@
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Workspace\.NET solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
